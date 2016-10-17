@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogCollection>
+  <DialogItems>
+    
+    <DialogItem sentenceNumber="1">
+      <name>Dave</name>
+      <Mood>Happy</Mood>
+      <Dialog>HAHAHAHA I am so HAPPY that I get to KILL you >:D</Dialog>
+    </DialogItem>
+    
+    <DialogItem sentenceNumber="2">
+      <name>Michael</name>
+      <Mood>Sarcastic</Mood>
+      <Dialog>yay i get to KILL you today :/</Dialog>
+    </DialogItem>
+    
+    <DialogItem sentenceNumber="3">
+      <name>Dick</name>
+      <Mood>Serious</Mood>
+      <Dialog>XD...:| Look here i am gonna KILL you now</Dialog>
+    </DialogItem>
+    
+    <DialogItem sentenceNumber="4">
+      <name>John</name>
+      <Mood>Supprised</Mood>
+      <Dialog>OMG why are you so hard to KILL :-(</Dialog>
+    </DialogItem>
+    
+</DialogItems>
+</DialogCollection>
